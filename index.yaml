@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  dummy:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-12-16T19:49:13.593072744Z"
+    description: A Helm chart for Kubernetes
+    digest: cebe1716711385eba4607c95422c4714ef923fe36d748e44a706d1be2758b71d
+    name: dummy
+    type: application
+    urls:
+    - https://github.com/cch0/helm-charts/releases/download/dummy-0.1.0/dummy-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-12-16T19:49:13.439185872Z"
